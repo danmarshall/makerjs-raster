@@ -1,4 +1,6 @@
-import makerjs = require('makerjs');
+///<reference path="node_modules/makerjs/dist/index.d.ts" />
+
+const makerjs = require('makerjs');
 
 class Raster implements MakerJs.IModel {
     public origin: MakerJs.IPoint;

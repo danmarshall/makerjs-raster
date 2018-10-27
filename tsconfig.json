@@ -1,8 +1,5 @@
 {
     "compilerOptions": {
-        "types": [
-            "makerjs"
-        ],
-        "noImplicitUseStrict": false
+        "module": "none"
     }
 }
