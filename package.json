@@ -1,0 +1,26 @@
+{
+  "name": "makerjs-raster",
+  "version": "1.0.0",
+  "description": "Rasterizer for Maker.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmarshall/makerjs-raster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmarshall/makerjs-raster/issues"
+  },
+  "homepage": "https://github.com/danmarshall/makerjs-raster#readme",
+  "dependencies": {
+    "makerjs": "^0.12.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.3"
+  }
+}
